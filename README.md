@@ -1,5 +1,5 @@
-Mongowatch
-==========
+Mongowatch.js
+=============
 
 Exposes all data modifications from MongoDB.
 
