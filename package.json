@@ -1,6 +1,6 @@
 {
-    "name": "mongowatch.js",
-    "description": "Node.js plugin which exposes all data modifications from MongoDB via an EventEmitter.",
+    "name": "mongowatch",
+    "description": "Node.js plugin which exposes all data modifications from MongoDB",
     "version": "0.1.0",
     "author": "Jan Remunda <remunda@gmail.com>",
     "directories": { 
